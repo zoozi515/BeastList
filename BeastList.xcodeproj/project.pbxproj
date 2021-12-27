@@ -13,6 +13,7 @@
 		842F59DD277A610200B2E6C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842F59DB277A610200B2E6C4 /* Main.storyboard */; };
 		842F59DF277A610300B2E6C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842F59DE277A610300B2E6C4 /* Assets.xcassets */; };
 		842F59E2277A610300B2E6C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842F59E0277A610300B2E6C4 /* LaunchScreen.storyboard */; };
+		842F59EC277A68C700B2E6C4 /* TaskViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842F59EB277A68C700B2E6C4 /* TaskViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		842F59DE277A610300B2E6C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842F59E1277A610300B2E6C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842F59E3277A610300B2E6C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		842F59EB277A68C700B2E6C4 /* TaskViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				842F59D5277A610200B2E6C4 /* AppDelegate.swift */,
 				842F59D7277A610200B2E6C4 /* SceneDelegate.swift */,
+				842F59EB277A68C700B2E6C4 /* TaskViewCell.swift */,
 				842F59D9277A610200B2E6C4 /* ViewController.swift */,
 				842F59DB277A610200B2E6C4 /* Main.storyboard */,
 				842F59DE277A610300B2E6C4 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				842F59DA277A610200B2E6C4 /* ViewController.swift in Sources */,
 				842F59D6277A610200B2E6C4 /* AppDelegate.swift in Sources */,
 				842F59D8277A610200B2E6C4 /* SceneDelegate.swift in Sources */,
+				842F59EC277A68C700B2E6C4 /* TaskViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
